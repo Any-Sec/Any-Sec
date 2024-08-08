@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a Django Web App<br>I’m currently learning Unix & Cyber Security & Golang<br>I'm always learning Clean Code, SOLID and Patterns, please, let's have a good code, please.<br>
+I'm currently working on a Golang Project<br>I’m currently learning Unix & Cyber Security & Golang<br>I'm always learning Clean Code, SOLID and Patterns, please, let's have a good code, please.<br>
 
 
 
