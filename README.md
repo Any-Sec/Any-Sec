@@ -1,6 +1,8 @@
 # 💫 About Me:
 I'm currently working on Golang<br>I’m currently learning Unix & Cyber Security & Golang<br>I'm always learning Clean Code, SOLID and Patterns, please, let's have a good code, please.<br>
 
+# Linkedln
+<div class="badge-base LI-profile-badge" data-locale="tr_TR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="ahmetnuriyavuzkanat" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://tr.linkedin.com/in/ahmetnuriyavuzkanat?trk=profile-badge">Ahmet Nuri Yavuzkanat</a></div>
 
 # 💻 Tech Stack:
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
